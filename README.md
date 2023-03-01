@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-👯 I’m looking to collaborate on Python and JavaScript related projects<br>🌱 I’m currently learning at ALX Africa<br>⚡ Fun fact: I love piano but it doesn't like me in return
+👯 I’m a Software Engineer. I'm very much interested in collaborating with you <br>🌱 I’m currently learning at ALX Africa<br>⚡ Fun fact: I love piano but it doesn't like me in return
 
 ## 🌐 Socials:
 
