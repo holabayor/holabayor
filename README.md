@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Josh
+### I am Josh Liasu
 
 # 💫 About Me:
 
