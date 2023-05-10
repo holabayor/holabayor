@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-👯 I’m a Software Engineer. I'm very much interested in collaborating with you <br>🌱ALX Africa Grad. Currently building projects <br>⚡ Fun fact: I love piano but it doesn't like me in return
+👯 I’m a Software Engineer. I'm very much interested in collaborating with you <br>🌱ALX Africa Graduate. Currently building projects <br>⚡ Fun fact: I love piano but it doesn't like me in return
 
 ## 🌐 Socials:
 
