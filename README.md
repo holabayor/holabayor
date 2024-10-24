@@ -2,31 +2,69 @@
 ### I am Aanuoluwapo Liasu
 
 # 💫 About Me:
-- 👨‍🎓 Recently graduated from **AltSchool Africa**, where I honed my skills in backend development.
-- 👯 I’m a Backend Developer, passionate about creating efficient, scalable solutions for real-world challenges.
-- 🚀 I'm eager to collaborate on innovative projects that push the boundaries of technology.
-- 🌱 Constantly learning and upskilling, currently focusing on advanced backend architectures, performance optimization, and security best practices.
-- ⚡ I’m an advocate for clean code, seamless integrations, and user-centered designs.
+- 👨‍🎓 Recently graduated from **AltSchool Africa** as a **Full Stack Developer**, with a **strong focus on backend development**.
+- 💻 Skilled in **building scalable, secure, and efficient backend systems**, as well as **creating dynamic, responsive frontend applications**.
+- 👯 Passionate about contributing to **open-source** projects and **collaborating on innovative projects**.
+- 🌱 Constantly improving my skills in **backend scaling, advanced architectures, and security best practices**.
+- ⚡ Currently exploring **DevOps** and **cloud-based solutions** for better performance and scalability.
+- 🤝 Open to **freelance opportunities**, **open-source contributions**, and **collaborations** on projects that push the boundaries of tech.
 
-## 🛠 Tech Stack:
-- **Languages:** TypeScript, JavaScript, SQL, HTML, CSS
-- **Backend:** Node.js, Express, NestJS, Prisma, Postgres, MongoDB
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Tools:** Git, Docker, Postman, Vite, Expo
-- **Others:** API development, Authentication, DevOps, Database management
+---
+
+## 🛠 My Tech Stack:
+
+### **Languages:**
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Backend:**
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+- ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Frontend:**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Mobile Development:**
+- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### **Tools & DevOps:**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+- ![CI/CD](https://img.shields.io/badge/CI%2FCD-1E90FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
 
 ## 🔭 Current Focus:
 - **Backend Scaling:** Optimizing for high-traffic applications.
 - **Security:** Strengthening web application security and best practices.
 - **Performance:** Fine-tuning systems for speed and efficiency.
 
+---
+
 ## 🚀 Projects:
 - Building robust, full-stack applications with modern technologies.
 - Exploring the intersection of technology and user experience to build impactful products.
+
+---
 
 ## 🌍 Let’s Connect:
 - [LinkedIn](https://www.linkedin.com/in/laoj)
 - [Twitter](https://twitter.com/SlimTallJosh)
 - [Email](mailto:liasu.olabayo@gmail.com)
+
+---
 
 ⚡ Let’s collaborate on something amazing! Whether it’s backend development, system design, or discussing innovative tech solutions, feel free to reach out!
